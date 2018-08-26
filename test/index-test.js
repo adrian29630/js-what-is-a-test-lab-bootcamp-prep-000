@@ -22,4 +22,4 @@ describe('what-is-a-test', () => {
   })
 
 })
-console.log('message')
+console.log(message)
